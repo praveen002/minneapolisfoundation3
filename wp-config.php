@@ -44,8 +44,8 @@ define('DB_COLLATE', '');
  * You can generate these using the {@link https://api.wordpress.org/secret-key/1.1/salt/ WordPress.org secret-key service}
  * You can change these at any point in time to invalidate all existing cookies. This will force all users to have to log in again.
  *
- * @since 2.6.0
- */
+ * @since 2.6.0 checck
+ */ 
 define('AUTH_KEY',         'Zq(IdGs*k#!m2B#{]v=3.#Y+6*z.0EUP(4A/nvy8yo5K[k8bJ7)~N5mKp[gU#6d?'); 
 define('SECURE_AUTH_KEY',  '%>.3|j;#Af[dJLyO` 3XqHH:lcxOk0,%R|E}2-Ul?4$f%WBPn-`t+SpL^js@OpCi');
 define('LOGGED_IN_KEY',    '?xD?h-k2TQfO%knml2kr[ In3^o{d.aybI3t4-3|jg(:*u0e7<2E(.smskH+<P|O');
